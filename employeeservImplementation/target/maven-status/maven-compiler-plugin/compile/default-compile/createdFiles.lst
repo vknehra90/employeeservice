@@ -1,0 +1,6 @@
+com/paypal/bfs/test/employeeserv/config/MapperConfig.class
+com/paypal/bfs/test/employeeserv/entity/Employee.class
+com/paypal/bfs/test/employeeserv/repository/EmployeeRepo.class
+com/paypal/bfs/test/employeeserv/entity/Address.class
+com/paypal/bfs/test/employeeserv/impl/EmployeeResourceImpl.class
+com/paypal/bfs/test/employeeserv/EmployeeservApplication.class
